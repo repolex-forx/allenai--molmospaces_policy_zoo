@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "allenai",
+  "repo": "molmospaces_policy_zoo",
+  "versions": [
+    {
+      "commit": "dc54f532b12c414d83c03a0e3733eb1aa9d318bc",
+      "parsed_at": "2026-11-07T20:55:20.796346+00:00",
+      "filetree": "filetree/dc54f532b12c414d83c03a0e3733eb1aa9d318bc.nq.gz",
+      "blobs": [
+        "blob/b71d5abe8cd8cb60ea34900c418f87dfc9763691.nq.gz",
+        "blob/2ca1926a4c13ceca134a3a09636d27adbf2c37e5.nq.gz",
+        "blob/36978fc907d85235517679613ba52da5d6c37a55.nq.gz",
+        "blob/976845d6f18187567615bf041b333d26b52515be.nq.gz",
+        "blob/20729c6aadde606a41416b2984bef8cecb0eb79d.nq.gz",
+        "blob/00b0849260372d58bcbf631772694225d9aa098c.nq.gz",
+        "blob/f0681843f525095e33f89ebee3e25d308830033b.nq.gz",
+        "blob/d9ecedb3bd1717a52ab3fef52c1bb7a469b69aee.nq.gz",
+        "blob/2c0733315e415bfb5e5b353f9996ecd964d395b2.nq.gz",
+        "blob/a09f351434bc9a81235610d10a6739e6259a1a18.nq.gz",
+        "blob/a8c22fe549ae229e93487ef60a99c4b9b2ec703e.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
