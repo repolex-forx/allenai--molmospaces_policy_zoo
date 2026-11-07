@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/allenai/molmospaces_policy_zoo/commit/dc54f532b12c414d83c03a0e3733eb1aa9d318bc",
       "git:hexsha": "dc54f532b12c414d83c03a0e3733eb1aa9d318bc",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
